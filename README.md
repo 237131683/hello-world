@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 A small program
 package app;
 
